@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Examen 1 RecursosHumanos\RecursosHumanos\bin\Debug\Control_De_Inventario2.exe.config
+C:\Users\Usuario\source\repos\Examen 1 RecursosHumanos\RecursosHumanos\bin\Debug\Control_De_Inventario2.exe
+C:\Users\Usuario\source\repos\Examen 1 RecursosHumanos\RecursosHumanos\bin\Debug\Control_De_Inventario2.pdb
+C:\Users\Usuario\source\repos\Examen 1 RecursosHumanos\RecursosHumanos\obj\Debug\RecursosHumanos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Examen 1 RecursosHumanos\RecursosHumanos\obj\Debug\RecursosHumanos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Examen 1 RecursosHumanos\RecursosHumanos\obj\Debug\Control_De_Inventario2.exe
+C:\Users\Usuario\source\repos\Examen 1 RecursosHumanos\RecursosHumanos\obj\Debug\Control_De_Inventario2.pdb
